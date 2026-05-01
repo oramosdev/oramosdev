@@ -62,15 +62,6 @@ Self-taught developer focused on **performance, scalability, and delivering meas
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <<img src="https://github-readme-stats.vercel.app/api?username=oramosdev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api?username=oramosdev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
 ## 📬 Let's work together
 
 I'm open to:
