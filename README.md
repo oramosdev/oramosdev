@@ -70,7 +70,6 @@ I'm open to:
 - Automation & data solutions  
 
 📩 Contact me:
-- Instagram: https://instagram.com/eooliver_  
 - GitHub: https://github.com/oramosdev  
 
 ---
